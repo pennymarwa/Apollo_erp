@@ -1,0 +1,33 @@
+#menu
+{ 
+	margin-top:7px;
+	padding:0px;
+}
+#menu li
+{ 
+	list-style-type:none;
+	display:inline;
+	padding:5px;
+	
+}
+#menu li a
+{
+	text-decoration:none;
+	color:#FFF;
+}
+#menu li a:hover
+{
+	color:#003;
+}
+#d2
+{
+	margin-top:50px;
+}
+#d4
+{
+	margin-top:50px;
+}
+#d5
+{
+	margin-top:50px;
+}

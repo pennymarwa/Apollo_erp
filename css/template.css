@@ -1,0 +1,63 @@
+#h1
+{
+	padding-left:20px;
+}
+#bt1
+{
+	background-color:transparent;
+	width:100px;
+	height:62px;
+	border-radius:0px;
+}
+
+#menu
+{
+	padding:0px;
+	margin:0px;
+}
+#menu li a
+{
+	color:#000;
+}
+#bt1:hover
+{
+	
+}
+
+#menu1
+{
+	
+	padding:0px;
+	margin:0px;
+}
+#menu1 li
+{
+	height:60px;
+	padding-top:15px;
+	padding-left:15px;
+	text-decoration:none;
+	border-bottom:solid #999 thin;
+}
+#menu1 li a
+{
+	color:#FFF;
+}
+#menu1 li a:hover
+{
+	text-decoration:none;
+}
+#im1
+{
+	width:30px;
+	height:30px;
+	background-color:transparent;
+}
+#im2
+{
+	width:400px;
+	height:400px;
+}
+#h2
+{
+	padding-top:150px;
+}
